@@ -15,3 +15,5 @@ say_something.===
 say_something[]
 
 # Lambdas can also take arguments
+# If you pass the wrong number of arguments to a lambda,
+# it will raise an exception, just like a regular method.
